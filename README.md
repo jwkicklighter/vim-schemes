@@ -6,13 +6,13 @@ This is a collection of color schemes that I have converted from other places.
 
 # Installation
 
-*  [Pathogen][11]
+*  [Pathogen]
   *  `git clone https://github.com/jwkicklighter/vim-schemes ~/.vim/bundle/vim-schemes`
-*  [NeoBundle][12]
+*  [NeoBundle]
   *  `NeoBundle 'jwkicklighter/vim-schemes'`
-*  [Vundle][13]
+*  [Vundle]
   *  `Plugin 'jwkicklighter/vim-schemes'`
-*  [Plug][40]
+*  [Plug]
   *  `Plug 'jwkicklighter/vim-schemes'`
 *  manual
   *  copy all of the files from /colors into your `~/.vim/colors` directory
