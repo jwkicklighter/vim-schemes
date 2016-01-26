@@ -2,7 +2,7 @@
 
 This is a collection of color schemes that I have converted from other places.
 
-*****None of these are mine**************
+**None of these are mine**
 
 ### Credit
 
