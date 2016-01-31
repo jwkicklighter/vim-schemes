@@ -1,7 +1,3 @@
-" Vim color file
-" Converted from Textmate theme Visual Studio Dark using Coloration v0.4.0 (http://github.com/sickill/coloration)
-" Original tmTheme from: https://github.com/nikeee/visual-studio-dark
-
 set background=dark
 highlight clear
 
@@ -9,29 +5,29 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "vsdark-jwk"
+let g:colors_name = "jwk-pastels"
 
-hi Cursor ctermfg=234 ctermbg=253 cterm=NONE guifg=#404552 guibg=#dcdcdc gui=NONE
+hi Cursor ctermfg=234 ctermbg=253 cterm=NONE guifg=#30343d guibg=#dcdcdc gui=NONE
 hi Visual ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#264f78 gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#353535 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#353535 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#353535 gui=NONE
-hi LineNr ctermfg=245 ctermbg=236 cterm=NONE guifg=#8f8f8f guibg=#353535 gui=NONE
+hi LineNr ctermfg=245 ctermbg=236 cterm=NONE guifg=#999999 guibg=#353535 gui=NONE
 hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE guifg=#5f5f5f guibg=#5f5f5f gui=NONE
 hi MatchParen ctermfg=74 ctermbg=NONE cterm=underline guifg=#5294e2 guibg=NONE gui=underline
 hi StatusLine ctermfg=15 ctermbg=241 cterm=bold guifg=#ffffff guibg=#5f5f5f gui=bold
 hi StatusLineNC ctermfg=15 ctermbg=241 cterm=NONE guifg=#ffffff guibg=#5f5f5f gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#264f78 gui=NONE
-hi IncSearch ctermfg=234 ctermbg=180 cterm=NONE guifg=#404552 guibg=#d69d85 gui=NONE
+hi IncSearch ctermfg=234 ctermbg=180 cterm=NONE guifg=#30343d guibg=#d69d85 gui=NONE
 hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=151 ctermbg=NONE cterm=NONE guifg=#b4cea8 guibg=NONE gui=NONE
-hi Folded ctermfg=65 ctermbg=234 cterm=NONE guifg=#608b4e guibg=#404552 gui=NONE
+hi Folded ctermfg=65 ctermbg=234 cterm=NONE guifg=#999999 guibg=#30343d gui=NONE
 
-hi Normal ctermfg=15 ctermbg=234 cterm=NONE guifg=#ffffff guibg=#404552 gui=NONE
+hi Normal ctermfg=15 ctermbg=234 cterm=NONE guifg=#ffffff guibg=#30343d gui=NONE
 hi Boolean ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi Character ctermfg=151 ctermbg=NONE cterm=NONE guifg=#b4cea8 guibg=NONE gui=NONE
-hi Comment ctermfg=65 ctermbg=NONE cterm=NONE guifg=#608b4e guibg=NONE gui=NONE
+hi Comment ctermfg=65 ctermbg=NONE cterm=NONE guifg=#999999 guibg=NONE gui=NONE
 hi Conditional ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi Constant ctermfg=151 ctermbg=NONE cterm=NONE guifg=#b4cea8 guibg=NONE gui=NONE
 hi Define ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
@@ -57,8 +53,8 @@ hi StorageClass ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=
 hi String ctermfg=180 ctermbg=NONE cterm=NONE guifg=#d69d85 guibg=NONE gui=NONE
 hi Tag ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi Title ctermfg=15 ctermbg=NONE cterm=bold guifg=#ffffff guibg=NONE gui=bold
-hi Todo ctermfg=65 ctermbg=NONE cterm=inverse,bold guifg=#608b4e guibg=NONE gui=inverse,bold
-hi Type ctermfg=79 ctermbg=NONE cterm=NONE guifg=#4ec9b0 guibg=NONE gui=NONE
+hi Todo ctermfg=65 ctermbg=NONE cterm=inverse,bold guifg=#999999 guibg=NONE gui=inverse,bold
+hi Type ctermfg=79 ctermbg=NONE cterm=NONE guifg=#49cba0 guibg=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi rubyClass ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi rubyFunction ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
@@ -84,7 +80,7 @@ hi rubyRailsARMethod ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE
 hi rubyRailsRenderMethod ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi rubyRailsMethod ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi erubyDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
-hi erubyComment ctermfg=65 ctermbg=NONE cterm=NONE guifg=#608b4e guibg=NONE gui=NONE
+hi erubyComment ctermfg=65 ctermbg=NONE cterm=NONE guifg=#999999 guibg=NONE gui=NONE
 hi erubyRailsMethod ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi htmlTag ctermfg=244 ctermbg=NONE cterm=NONE guifg=#808080 guibg=NONE gui=NONE
 hi htmlEndTag ctermfg=244 ctermbg=NONE cterm=NONE guifg=#808080 guibg=NONE gui=NONE
