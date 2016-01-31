@@ -19,7 +19,7 @@ hi StatusLine ctermfg=15 ctermbg=241 cterm=bold guifg=#ffffff guibg=#5f5f5f gui=
 hi StatusLineNC ctermfg=15 ctermbg=241 cterm=NONE guifg=#ffffff guibg=#5f5f5f gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#264f78 gui=NONE
-hi IncSearch ctermfg=234 ctermbg=180 cterm=NONE guifg=#30343d guibg=#d69d85 gui=NONE
+hi IncSearch ctermfg=234 ctermbg=180 cterm=NONE guifg=#30343d guibg=#e7b525 gui=NONE
 hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=151 ctermbg=NONE cterm=NONE guifg=#49cba0 guibg=NONE gui=NONE
 hi Folded ctermfg=65 ctermbg=234 cterm=NONE guifg=#999999 guibg=#30343d gui=NONE
@@ -41,7 +41,7 @@ hi Float ctermfg=151 ctermbg=NONE cterm=NONE guifg=#b5cea8 guibg=NONE gui=NONE
 hi Function ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi Identifier ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi Keyword ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
-hi Label ctermfg=180 ctermbg=NONE cterm=NONE guifg=#d69d85 guibg=NONE gui=NONE
+hi Label ctermfg=180 ctermbg=NONE cterm=NONE guifg=#e7b525 guibg=NONE gui=NONE
 hi NonText ctermfg=240 ctermbg=235 cterm=NONE guifg=#565656 guibg=#292929 gui=NONE
 hi Number ctermfg=151 ctermbg=NONE cterm=NONE guifg=#b5cea8 guibg=NONE gui=NONE
 hi Operator ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
@@ -50,7 +50,7 @@ hi Special ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi SpecialKey ctermfg=240 ctermbg=236 cterm=NONE guifg=#565656 guibg=#353535 gui=NONE
 hi Statement ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi StorageClass ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
-hi String ctermfg=180 ctermbg=NONE cterm=NONE guifg=#d69d85 guibg=NONE gui=NONE
+hi String ctermfg=180 ctermbg=NONE cterm=NONE guifg=#e7b525 guibg=NONE gui=NONE
 hi Tag ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi Title ctermfg=15 ctermbg=NONE cterm=bold guifg=#ffffff guibg=NONE gui=bold
 hi Todo ctermfg=65 ctermbg=NONE cterm=inverse,bold guifg=#999999 guibg=NONE gui=inverse,bold
@@ -61,13 +61,13 @@ hi rubyFunction ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=
 hi rubyInterpolationDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi rubySymbol ctermfg=151 ctermbg=NONE cterm=NONE guifg=#49cba0 guibg=NONE gui=NONE
 hi rubyConstant ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
-hi rubyStringDelimiter ctermfg=180 ctermbg=NONE cterm=NONE guifg=#d69d85 guibg=NONE gui=NONE
+hi rubyStringDelimiter ctermfg=180 ctermbg=NONE cterm=NONE guifg=#e7b525 guibg=NONE gui=NONE
 hi rubyBlockParameter ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi rubyInstanceVariable ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi rubyInclude ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi rubyGlobalVariable ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
-hi rubyRegexp ctermfg=180 ctermbg=NONE cterm=NONE guifg=#d69d85 guibg=NONE gui=NONE
-hi rubyRegexpDelimiter ctermfg=180 ctermbg=NONE cterm=NONE guifg=#d69d85 guibg=NONE gui=NONE
+hi rubyRegexp ctermfg=180 ctermbg=NONE cterm=NONE guifg=#e7b525 guibg=NONE gui=NONE
+hi rubyRegexpDelimiter ctermfg=180 ctermbg=NONE cterm=NONE guifg=#e7b525 guibg=NONE gui=NONE
 hi rubyEscape ctermfg=181 ctermbg=NONE cterm=NONE guifg=#e3bbab guibg=NONE gui=NONE
 hi rubyControl ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi rubyClassVariable ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
