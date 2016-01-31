@@ -82,10 +82,10 @@ hi rubyRailsMethod ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE g
 hi erubyDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi erubyComment ctermfg=65 ctermbg=NONE cterm=NONE guifg=#999999 guibg=NONE gui=NONE
 hi erubyRailsMethod ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
-hi htmlTag ctermfg=244 ctermbg=NONE cterm=NONE guifg=#808080 guibg=NONE gui=NONE
-hi htmlEndTag ctermfg=244 ctermbg=NONE cterm=NONE guifg=#808080 guibg=NONE gui=NONE
-hi htmlTagName ctermfg=244 ctermbg=NONE cterm=NONE guifg=#808080 guibg=NONE gui=NONE
-hi htmlArg ctermfg=244 ctermbg=NONE cterm=NONE guifg=#808080 guibg=NONE gui=NONE
+hi htmlTag ctermfg=244 ctermbg=NONE cterm=NONE guifg=#989898 guibg=NONE gui=NONE
+hi htmlEndTag ctermfg=244 ctermbg=NONE cterm=NONE guifg=#989898 guibg=NONE gui=NONE
+hi htmlTagName ctermfg=244 ctermbg=NONE cterm=NONE guifg=#989898 guibg=NONE gui=NONE
+hi htmlArg ctermfg=244 ctermbg=NONE cterm=NONE guifg=#989898 guibg=NONE gui=NONE
 hi htmlSpecialChar ctermfg=151 ctermbg=NONE cterm=NONE guifg=#49cba0 guibg=NONE gui=NONE
 hi javaScriptFunction ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi javaScriptRailsFunction ctermfg=15 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
