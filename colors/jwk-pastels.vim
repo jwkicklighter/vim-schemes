@@ -7,8 +7,8 @@ endif
 
 let g:colors_name = "jwk-pastels"
 
-hi Cursor ctermfg=234 ctermbg=253 cterm=NONE guifg=#30343d guibg=#dcdcdc gui=NONE
-hi Visual ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#264f78 gui=NONE
+hi Cursor ctermfg=234 ctermbg=253 cterm=NONE guifg=grey20 guibg=#dcdcdc gui=NONE
+hi Visual ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#264fa8 gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#353535 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#353535 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#353535 gui=NONE
@@ -19,12 +19,12 @@ hi StatusLine ctermfg=15 ctermbg=241 cterm=bold guifg=#ffffff guibg=#5f5f5f gui=
 hi StatusLineNC ctermfg=15 ctermbg=241 cterm=NONE guifg=#ffffff guibg=#5f5f5f gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#264f78 gui=NONE
-hi IncSearch ctermfg=234 ctermbg=180 cterm=NONE guifg=#30343d guibg=#e7b525 gui=NONE
+hi IncSearch ctermfg=234 ctermbg=180 cterm=NONE guifg=grey20 guibg=#e7b525 gui=NONE
 hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=151 ctermbg=NONE cterm=NONE guifg=#49cba0 guibg=NONE gui=NONE
-hi Folded ctermfg=65 ctermbg=234 cterm=NONE guifg=#999999 guibg=#30343d gui=NONE
+hi Folded ctermfg=65 ctermbg=234 cterm=NONE guifg=#999999 guibg=grey20 gui=NONE
 
-hi Normal ctermfg=15 ctermbg=234 cterm=NONE guifg=#ffffff guibg=#30343d gui=NONE
+hi Normal ctermfg=15 ctermbg=234 cterm=NONE guifg=#ffffff guibg=grey20 gui=NONE
 hi Boolean ctermfg=74 ctermbg=NONE cterm=NONE guifg=#5294e2 guibg=NONE gui=NONE
 hi Character ctermfg=151 ctermbg=NONE cterm=NONE guifg=#49cba0 guibg=NONE gui=NONE
 hi Comment ctermfg=65 ctermbg=NONE cterm=NONE guifg=#999999 guibg=NONE gui=NONE
