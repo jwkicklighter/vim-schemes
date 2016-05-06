@@ -3,6 +3,7 @@
 This is a collection of color schemes that I have converted from other places.
 
 **None of these are mine**
+(Well okay, jwk-pastels is mine)
 
 # Installation
 
@@ -22,3 +23,4 @@ This is a collection of color schemes that I have converted from other places.
 - vsdark - [https://github.com/nikeee/visual-studio-dark](https://github.com/nikeee/visual-studio-dark)
 - monokaigray - [https://github.com/IanWold/MonokaiGray](https://github.com/IanWold/MonokaiGray)
 - devastate - [https://github.com/vlakarados/devastate](https://github.com/vlakarados/devastate)
+- foxdark - [https://github.com/karelvuong/st-fox](https://github.com/karelvuong/st-fox)
